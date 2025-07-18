@@ -1,136 +1,101 @@
-# Denys Fedorov
+# Denys Fedorov  
+**Full-Stack Developer** | 8+ years of experience | React, TypeScript, Node.js  
 
-## 🚀 Profile
+📍 Ukraine  
+📧 glindep.jobs@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/denys-fedorov-694117121/)
 
-Full-Stack Developer with over 8 years of experience delivering scalable web applications in fintech, SaaS, and e-commerce. Expert in React 18, TypeScript, Node.js, and monorepo architectures. Passionate about accessibility-first design, performance optimization, and clean code. Successfully launched 10+ high-impact products used by more than 1 M users worldwide.
-
-## 📫 Contact
-
-- 📧 glindep.jobs@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/denys-fedorov-694117121/)
-<!-- - 💻 [GitHub (active)](https://github.com/denysfedorov) -->
+## 🚀 Profile  
+Experienced Full-Stack Developer specializing in scalable, production-ready web apps across fintech, SaaS, and e-commerce. Strong background in React 18, TypeScript, Node.js, and monorepo architecture. Passionate about building accessible, performance-optimized, and maintainable software. Delivered 10+ complex platforms serving over 1M users globally.
 
 ## 🛠 Skills
 
-**Frontend:**
+### 🌐 Frontend
+- **Languages:** JavaScript/TypeScript
+- **Frameworks:** React 16–18, Next.js, Redux, Vue.js, Nuxt.js, Pinia  
+- **UI Libraries:** Tailwind CSS, shadcn/ui, Material-UI, Vuetify, Ant Design, Cauldron, Bootstrap  
+- **Styling:** SASS, CSS Modules, Styled Components  
+- **Forms & Validation:** React Hook Form, Zod, Formik  
+- **Auth:** NextAuth.js, better-auth  
+- **Testing:** React Testing Library, Playwright, Cypress, Jest  
 
-- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
-- **Primary Frameworks:** React.js (16–18), Next.js, Redux
-- **Additional Experience:** Vue.js, Nuxt.js, Pinia
-- **UI Libraries:** Tailwind CSS, shadcn/ui, Bootstrap, Ant Design, Vuetify, Material-UI, Cauldron
-- **Styling:** CSS Modules, SASS, Styled Components
-- **Forms & Validation:** React Hook Form, Formik, Zod
-- **Authentication:** NextAuth.js, better-auth
-- **Testing:** React Testing Library, Playwright, Cypress, Jest
+### 🧠 State & Data
+- Zustand, Redux, Context API  
+- TanStack Query, SWR, TanStack Table  
 
-**Backend:**  
-JavaScript (Node.js), Go; Express.js, Sails.js, Fastify; PostgreSQL, MongoDB, Redis; REST, GraphQL, tRPC, WebSockets; AWS, Supabase
+### ⚙️ Backend
+- Node.js, Go, Express.js, Sails.js, Fastify  
+- PostgreSQL, MongoDB, Redis  
+- REST APIs, GraphQL, tRPC, WebSockets  
+- Prisma, Mongoose  
 
-**DevOps & Tooling:**  
-npm/Yarn/pnpm, npm Workspaces, Rollup, NX; Docker, GitHub Actions, Vercel, Netlify; ESLint, Prettier, Sentry
+### ☁️ DevOps & Tooling
+- npm Workspaces, Rollup, Webpack, Vite, NX, Docker  
+- GitHub Actions, Vercel, Netlify  
+- ESLint, Prettier, Husky, lint-staged  
 
-**Specialized:**  
-Pixi.js, WebGL, HTML5 Canvas, Stripe, KNET, Spreedly, Cybersource
+### 🎨 Specialized
+- WebGL, Pixi.js, HTML5 Canvas  
+- Stripe, KNET, Spreedly, Saferpay, Cybersource  
+- Sentry, Datadog, Figma (basic)
 
-## 📦 Projects
+## 🧩 Projects
 
-1. **Accessibility Testing Platform** (Senior Full-Stack, 2 yrs)  
-   Automated enterprise suite for accessibility audits and compliance.
+### 🛠 Accessibility Testing Platform (2024–Now)  
+**Senior Full-Stack Developer**  
+Built a comprehensive accessibility auditing platform used by enterprises to detect, report, and fix WCAG violations. Maintained a large monorepo with shared packages, including a fully accessible React design system, automated testing modules, and annotation tools. Contributed across both frontend and backend, and helped onboard new engineers to the team.
+**Stack:** React 18, TypeScript, Node.js, Go, PostgreSQL, Playwright, React Testing Library, Puppeteer, Docker, AWS
 
-   - Reduced testing time by 60% with AI-driven React tooling
-   - Built a WCAG-compliant component library in a 7-package monorepo
-   - Enabled real-time collaboration and i18n (3+ languages)  
-     **Stack:** React 18, TypeScript, Node.js, Go, PostgreSQL, Playwright, Docker, AWS
+### 🎟 Event Ticketing Platform (2023)  
+**Senior Frontend Developer**  
+Developed a high-traffic ticket booking system with real-time seat selection and regional payment integrations. Focused on performance and reliability during peak demand. Integrated SeatsIO for seat management and implemented a robust KNET payment flow optimized for the Gulf region.
+**Stack:** Vue.js, Pinia, Vuetify, SeatsIO, KNET
 
-2. **Event Ticket Booking** (Senior Frontend, 6 mo)  
-   Interactive ticketing site with live seat maps and secure payments (Middle East).
+### 🧱 NFT Multimedia Infrastructure (2021–2023)  
+**Senior Frontend Developer**  
+Led frontend development for a decentralized multimedia platform built on IPFS, designed for NFT creators. Built advanced file upload tools, token-gated access, and user analytics dashboards. Integrated Web3 wallets and Stripe billing for storage subscriptions.
+**Stack:** React.js, IPFS, Web3.js, Node.js, MongoDB, AWS, Stripe
 
-   - Implemented real-time seat selection with SeatsIO
-   - Integrated KNET, cutting checkout drop-off by 40%
-   - Processed 7 000+ transactions at peak  
-     **Stack:** Vue.js, Pinia, Vuetify, SeatsIO, KNET, JavaScript, HTML5, CSS3
+### 🍽 Restaurant Platform (2019–2021)  
+**Senior Frontend Developer**  
+Worked on a multi-channel ordering solution for restaurants, supporting kiosk, tablet, and web interfaces. Unified UI logic in a monorepo, integrated multiple payment gateways, and optimized the overall ordering experience. Focused on modularity and code reuse across platforms.
+**Stack:** Vue.js, Nuxt.js, Vuetify, NX, REST, JavaScript
 
-3. **NFT Multimedia Solution** (Senior Frontend, 2 yrs)  
-   IPFS-based platform for Web3 creators.
+### 📊 Enterprise Accounting SaaS (2018–2020)  
+**Full-Stack Developer**  
+Contributed to a multi-tenant accounting platform with real-time collaboration and invoice OCR. Developed APIs and frontend modules for document parsing, permissions, and socket-driven editing. Helped scale the system to support over 1,200 businesses.
+**Stack:** React, Node.js, Fastify, Sails.js, PostgreSQL, Redis, Docker
 
-   - Optimized uploads (500 GB/day, 50% faster)
-   - Integrated Web3.js for smart-contract interactions
-   - Launched Stripe subscriptions for storage services  
-     **Stack:** React.js, Web3.js, Material-UI, IPFS, Node.js, MongoDB, AWS, Stripe
+### 👷 Temp Job Marketplace (2017–2018)  
+**Full-Stack Developer**  
+Built a location-based gig platform that connected businesses with temporary workers. Implemented real-time search, smart matching algorithms, and notification systems. Worked across both backend and frontend using Node.js and React.
+**Stack:** React, Redux, Node.js, Express, Algolia, WebSockets, AWS
 
-4. **Restaurant Digital Platform** (Senior Frontend, 2 yrs)  
-   Unified kiosk, mobile, and web apps for restaurants.
+### 📷 Photo Book App (2016–2017)  
+**Frontend Developer**  
+Created a photo customization and ordering interface for a printing service. Built user-facing workflows and internal dashboards for managing orders and logistics. Integrated AWS for secure file storage and delivery.
+**Stack:** React, Redux, Webpack, AWS, REST
 
-   - Standardized UI across 3 channels (Vue/Nuxt)
-   - Integrated 5+ payment gateways
-   - Managed code sharing with NX monorepo  
-     **Stack:** Vue.js, Nuxt.js, Vuetify, NX, JS, REST APIs
+### 🌐 Charity Festival Site (2016)  
+**Frontend Developer**  
+Developed a live-streaming and donation platform for an international children’s charity event. Built responsive interfaces and integrated real-time donation tracking to handle thousands of simultaneous users.
+**Stack:** HTML5, CSS3, jQuery, Gulp
 
-5. **Enterprise Accounting SaaS** (Full-Stack, 2 yrs)  
-   Multi-tenant cloud platform with OCR and real-time collaboration.
+### 🧾 HoReCa Supply Chain (2016–2017)  
+**Frontend Developer**  
+Built a B2B marketplace connecting restaurants with suppliers. Developed separate interfaces for buyers and vendors, enabling order management, analytics, and real-time tracking features.
+**Stack:** React, Redux, Webpack, AWS
 
-   - Automated invoice processing via OCR
-   - Built React UI + Node.js APIs for 1 200+ firms
-   - Enabled live editing with WebSockets  
-     **Stack:** React.js, Node.js, Sails.js, Fastify, PostgreSQL, Redis, Docker
+### 🎰 Slot Game Platform (2015–2016)  
+**Frontend Developer**  
+Ported and modernized browser-based slot games using Pixi.js and WebGL. Migrated legacy Backbone code to React and added multiplayer support with WebSocket synchronization.
+**Stack:** React.js, WebGL, Pixi.js, HTML5 Canvas, Node.js
 
-6. **Temp Job Matching** (Full-Stack, 1 yr)  
-   Real-time gig marketplace with geolocation-powered matching.
+## 🗣 Languages  
+- English (fluent)  
+- Ukrainian (native)  
 
-   - Developed React/Redux frontend & Node.js backend
-   - Delivered sub-second search with Algolia
-   - Integrated real-time notifications  
-     **Stack:** React.js, Redux, Node.js, Express.js, Algolia, AWS
+---
 
-7. **Photo Printing App** (Frontend, 1 yr)  
-   Mobile-first photo book ordering and admin dashboard.
-
-   - Scaled to 100 000+ users with AWS CDN
-   - Built React dashboards for orders & analytics  
-     **Stack:** React.js, Redux, Webpack, AWS (S3, CloudFront)
-
-8. **HoReCa Supply Chain** (Frontend, 1 yr)  
-   B2B marketplace for restaurant procurement.
-
-   - Cut order times by 30% through workflow automation
-   - Launched real-time order tracking  
-     **Stack:** React.js, Redux, Webpack, AWS
-
-9. **Charity Festival Website** (Frontend, 5 mo)  
-   Live-stream site for an international children’s festival.
-
-   - Supported 20 000+ concurrent viewers
-   - Processed real-time donations under high load  
-     **Stack:** HTML5, CSS3, SASS, jQuery, Gulp
-
-10. **Online Gaming Platform** (Frontend, 1+ yrs)  
-    Browser-based slot machines with multiplayer.
-
-- Ported slot games to WebGL & Pixi.js
-- Migrated from Backbone.js to React
-- Added real-time sync via WebSockets  
-  **Stack:** React.js, WebGL 2.0, Pixi.js, HTML5 Canvas, Node.js
-
-## 🗣 Languages
-
-- English - proficient
-- Ukrainian - native
-
-## 🎓 Education
-
-- Master’s, Yuriy Fedkovych Chernivtsi National University
-
-<!--
-**denisglindep/denisglindep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education  
+**Master’s Degree** – Yuriy Fedkovych Chernivtsi National University
