@@ -92,7 +92,7 @@ Ported and modernized browser-based slot games using Pixi.js and WebGL. Migrated
 **Stack:** React.js, WebGL, Pixi.js, HTML5 Canvas, Node.js
 
 ## 🗣 Languages  
-- English (fluent)  
+- English (proficient)  
 - Ukrainian (native)  
 
 ---
