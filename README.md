@@ -12,7 +12,7 @@ Experienced Full-Stack Developer specializing in scalable, production-ready web 
 
 ### 🌐 Frontend
 - **Languages:** JavaScript/TypeScript
-- **Frameworks:** React 16–18, Next.js, Redux, Vue.js, Nuxt.js, Pinia  
+- **Frameworks:** React, Next.js, Redux, Vue.js, Nuxt.js, Pinia  
 - **UI Libraries:** Tailwind CSS, shadcn/ui, Material-UI, Vuetify, Ant Design, Cauldron, Bootstrap  
 - **Styling:** SASS, CSS Modules, Styled Components  
 - **Forms & Validation:** React Hook Form, Zod, Formik  
